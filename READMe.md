@@ -1,6 +1,6 @@
-## 🐱‍🏍✨Flask E-commerce Application with Gunicorn✨🐱‍🏍
+Flask E-commerce Application with Gunicorn
 
-🐍Python Project🐍
+Python Project
 
 📌Customers can sign in or sign up
 📌Customers can reset their passwords
